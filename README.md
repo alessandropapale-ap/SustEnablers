@@ -1,9 +1,5 @@
 # 🌱 Sust-Enablers — Carbon Analytics & Sustainable Investment Platform
 
-> Final project — [Course Name or Program Name]  
-> Author: *[Il tuo nome completo]*  
-> Date: *[Mese, Anno]*  
-
 ---
 
 ## 🧭 Overview
